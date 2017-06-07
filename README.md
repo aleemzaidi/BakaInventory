@@ -1,0 +1,2 @@
+# BakaInventory
+Simple Inventory Plugin
