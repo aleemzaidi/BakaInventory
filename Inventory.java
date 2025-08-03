@@ -1,4 +1,4 @@
-package me.bhai.BakaInventory;
+package me.bhai.Inventory;
 
 import java.util.Arrays;
 import java.util.List;
@@ -13,7 +13,7 @@ import org.bukkit.inventory.meta.ItemMeta;
 import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class BakaInventory extends JavaPlugin {
+public class Inventory extends JavaPlugin {
 	
 	@Override
 	public void onEnable(){
@@ -69,4 +69,5 @@ public class BakaInventory extends JavaPlugin {
         return material;
     }
     
+
 }
